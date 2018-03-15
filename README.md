@@ -1,2 +1,2 @@
 
-Please read the instruction/report file to get project results and launch details.
+Please read the instruction/report pdf file to get project results and launch details.
